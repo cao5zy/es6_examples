@@ -1,0 +1,19 @@
+{
+  "name": "es6_examples",
+  "version": "1.0.0",
+  "description": "es6 examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cao5zy/es6_examples.git"
+  },
+  "author": "zongying_cao@163.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cao5zy/es6_examples/issues"
+  },
+  "homepage": "https://github.com/cao5zy/es6_examples#readme"
+}
