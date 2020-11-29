@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cao5zy/es6_examples/issues"
   },
-  "homepage": "https://github.com/cao5zy/es6_examples#readme"
+  "homepage": "https://github.com/cao5zy/es6_examples#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
 }
